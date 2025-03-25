@@ -1,0 +1,40 @@
+{
+    "logs": {
+        "titles": {
+            "item_transfer": "🤝 Transferencia de Objetos",
+            "item_dropped": "🗑️ Objeto Soltado",
+            "item_picked": "📥 Objeto Recogido",
+            "item_stored": "📥 Objeto Guardado en Almacén",
+            "item_removed": "📤 Objeto Retirado del Almacén",
+            "evidence_movement": "📦 Movimiento de Evidencia"
+        },
+        "fields": {
+            "player_name": "👤 Nombre del Jugador",
+            "discord": "🎮 Discord",
+            "given_to": "👥 Entregado a",
+            "receiver_discord": "🎮 Discord del Receptor",
+            "item": "📦 Objeto",
+            "amount": "🔢 Cantidad",
+            "serial": "🔧 Número de Serie",
+            "location": "📍 Ubicación",
+            "stash": "🗄️ Almacén",
+            "action": "📝 Acción",
+            "evidence_locker": "🔐 Casillero de Evidencia"
+        },
+        "actions": {
+            "stored": "Guardado",
+            "removed": "Retirado",
+            "dropped": "Soltado",
+            "picked_up": "Recogido",
+            "placed": "Colocado",
+            "given": "Entregado"
+        },
+        "webhooks": {
+            "evidence_logs": "Registros de Evidencia",
+            "pickup_logs": "Registros de Recogida",
+            "drop_logs": "Registros de Objetos Soltados",
+            "stash_logs": "Registros de Almacén",
+            "transfer_logs": "Registros de Transferencia"
+        }
+    }
+} 

@@ -1,0 +1,40 @@
+{
+    "logs": {
+        "titles": {
+            "item_transfer": "🤝 Transfert d'Objet entre Joueurs",
+            "item_dropped": "🗑️ Objet Jeté",
+            "item_picked": "📥 Objet Ramassé",
+            "item_stored": "📥 Objet Stocké dans la Cache",
+            "item_removed": "📤 Objet Retiré de la Cache",
+            "evidence_movement": "📦 Mouvement de Preuve"
+        },
+        "fields": {
+            "player_name": "👤 Nom du Joueur",
+            "discord": "🎮 Discord",
+            "given_to": "👥 Donné à",
+            "receiver_discord": "🎮 Discord du Receveur",
+            "item": "📦 Objet",
+            "amount": "🔢 Quantité",
+            "serial": "🔧 Numéro de Série",
+            "location": "📍 Emplacement",
+            "stash": "🗄️ Cache",
+            "action": "📝 Action",
+            "evidence_locker": "🔐 Casier à Preuves"
+        },
+        "actions": {
+            "stored": "Stocké",
+            "removed": "Retiré",
+            "dropped": "Jeté",
+            "picked_up": "Ramassé",
+            "placed": "Placé",
+            "given": "Donné"
+        },
+        "webhooks": {
+            "evidence_logs": "Logs des Preuves",
+            "pickup_logs": "Logs de Ramassage",
+            "drop_logs": "Logs de Dépôt",
+            "stash_logs": "Logs de Cache",
+            "transfer_logs": "Logs de Transfert d'Objets"
+        }
+    }
+} 

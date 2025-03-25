@@ -1,0 +1,40 @@
+{
+    "logs": {
+        "titles": {
+            "item_transfer": "🤝 Player Item Transfer",
+            "item_dropped": "🗑️ Item Dropped",
+            "item_picked": "📥 Item Picked Up",
+            "item_stored": "📥 Item Stored in Stash",
+            "item_removed": "📤 Item Removed from Stash",
+            "evidence_movement": "📦 Evidence Movement"
+        },
+        "fields": {
+            "player_name": "👤 Player Name",
+            "discord": "🎮 Discord",
+            "given_to": "👥 Given To",
+            "receiver_discord": "🎮 Receiver Discord",
+            "item": "📦 Item",
+            "amount": "🔢 Amount",
+            "serial": "🔧 Serial Number",
+            "location": "📍 Location",
+            "stash": "🗄️ Stash",
+            "action": "📝 Action",
+            "evidence_locker": "🔐 Evidence Locker"
+        },
+        "actions": {
+            "stored": "Stored",
+            "removed": "Removed",
+            "dropped": "Dropped",
+            "picked_up": "Picked Up",
+            "placed": "Placed",
+            "given": "Given"
+        },
+        "webhooks": {
+            "evidence_logs": "Evidence Logs",
+            "pickup_logs": "Pickup Logs",
+            "drop_logs": "Drop Logs",
+            "stash_logs": "Stash Logs",
+            "transfer_logs": "Item Transfer Logs"
+        }
+    }
+} 
